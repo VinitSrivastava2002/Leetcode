@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class Anagram_1347 {
+public class Minimum_Number_Of_Steps_To_Make_Two_Strings_Anagram {
     public static void main(String[] args) {
         String s = "leetcode";
         String t = "practice";

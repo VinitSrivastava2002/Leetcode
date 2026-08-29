@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class MinNoGame_2974 {
+public class MinNoGame {
     public static void main(String[] args) {
         int[] nums = {5,4,2,3};
         System.out.println(Arrays.toString(numberGame(nums)));

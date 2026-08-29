@@ -1,4 +1,4 @@
-public class _1052_Grumpy_Bookstore_Owner {
+public class Grumpy_Bookstore_Owner {
     public static void main(String[] args) {
         int[] customers = {4,10,10};
         int[] grumpy = {1,1,0};
