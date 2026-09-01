@@ -23,7 +23,8 @@ class TestMountainArray implements MountainArray {
     }
 }
 
-public class LeetCode1095 {
+public
+class Find_In_Mountain_Array {
     public static void main(String[] args) {
         int[] data = {1,2,3,4,5,3,1};
         MountainArray mountain = new TestMountainArray(data);
